@@ -1,8 +1,6 @@
 Version:
-    ● 1.0.1
+    ● 1.0.2
 
 Updates:
-    ● None
-
-Bug Fixes:
-    ● None
+    ● Removed universal support
+    ● Added support for Work at a Pizza Place
