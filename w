@@ -1,1 +1,1 @@
-dsfsdf
+print("fag")
