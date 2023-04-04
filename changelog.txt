@@ -1,6 +1,6 @@
 Version:
-    ● 1.0.4
+    ● 1.0.5
 
 Updates:
-    ● Fixed issue w/ fling (didn't teleport character back to original position)
-    ● Added support for Climb 2000 Stairs for VIP
+    ● Added universal support
+    ● Fixed typo in Climb 2000 Stairs to VIP
